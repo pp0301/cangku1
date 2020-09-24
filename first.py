@@ -1,5 +1,5 @@
 
-hello world
+print('hello world')
 
-nihao
+print('nihao')
 
